@@ -1,11 +1,10 @@
 # MURKIT
 
 ## Посилання на сторінку GitPage -> магазину Муркота :)  [MURKIT](natatimos.github.io/murkit/ "MURKIT")
-## Link to the GitPage of MURKIT online store [MURKIT](natatimos.github.io/murkit/ "MURKIT")
+## Link to the GitPage of MURKIT online store :) [MURKIT](natatimos.github.io/murkit/ "MURKIT")
 
 
-#### Приклад верстки головної сторінки інтернет-магазину аксесуарів для котів Murkit. 
-#### Example of the layout of the Murkit - cat accessories online store main page.
+#### Приклад верстки головної сторінки інтернет-магазину аксесуарів для котів Murkit. / Example of the layout of the Murkit - cat accessories online store main page.
 
 Стек технологій:  
 HTML - семантична вестка, адаптив, кросбраузерність  
@@ -16,7 +15,7 @@ CSS - Flex, Grid
 Technology stack:  
 HTML - semantic, adaptive, cross-browser.    
 CSS - Flex, Grid   
-connected jQuery-plug-in Slick for slider.  
+connected jQuery-plugin Slick for slider.  
 
 
 ## Головна сторінка сайту-магазину кошачих аксесуарів / The main page of the online store of cat accessories
