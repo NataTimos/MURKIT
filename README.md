@@ -1,6 +1,6 @@
 # MURKIT
 
-## Посилання на сторінку GitPage  [Обычная ссылка с title](natatimos.github.io/murkit/ "MURKIT")
+## Посилання на сторінку GitPage -> магазину Муркота :)  [MURKIT](natatimos.github.io/murkit/ "MURKIT")
 
 ## Перша сторінка сайту-магазину кошачих аксесуарів 
 
