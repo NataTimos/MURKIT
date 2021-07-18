@@ -1,7 +1,7 @@
 # MURKIT
 
-## Посилання на сторінку GitPage -> магазину Муркота :)  [MURKIT](natatimos.github.io/murkit/ "MURKIT")
-## Link to the GitPage of MURKIT online store :) [MURKIT](natatimos.github.io/murkit/ "MURKIT")
+## Посилання на сторінку GitPage -> магазину Муркота :)  [MURKIT](https://natatimos.github.io/MURKIT/) 
+## Link to the GitPage of MURKIT online store :) [MURKIT](https://natatimos.github.io/MURKIT/)
 
 
 #### Приклад верстки головної сторінки інтернет-магазину аксесуарів для котів Murkit. / Example of the layout of the Murkit - cat accessories online store main page.
